@@ -2,7 +2,7 @@ package ir.udmx.mvvmtodo.data
 
 import androidx.room.*
 import androidx.room.Dao
-import ir.udmx.mvvmtodo.ui.tasks.SortOrder
+
 import kotlinx.coroutines.flow.Flow
 
 @Dao
